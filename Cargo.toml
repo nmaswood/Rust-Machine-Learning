@@ -1,0 +1,7 @@
+[package]
+name = "datasci"
+version = "0.1.0"
+authors = ["Nasr Maswood <nmaswood@cs.uchicago.edu>"]
+
+[dependencies]
+itertools = "*"
